@@ -1,0 +1,23 @@
+{
+  "name": "pay/yilan",
+  "type": "library",
+  "description": "易联支付",
+  "keywords": ["pay", "yilian"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "钱富年",
+      "email": "qianfunian@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Pay\\Yilian\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+}
+
