@@ -2,7 +2,10 @@
   "name": "qianfunian/yilian",
   "type": "library",
   "description": "易联支付",
-  "keywords": ["pay", "yilian"],
+  "keywords": [
+    "pay",
+    "yilian"
+  ],
   "license": "MIT",
   "authors": [
     {
@@ -17,7 +20,6 @@
     "psr-0": {
       "Yilian\\": "src/"
     }
-  },
-  "minimum-stability": "stable"
+  }
 }
 
