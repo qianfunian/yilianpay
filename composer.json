@@ -1,5 +1,5 @@
 {
-  "name": "pay/yilan",
+  "name": "qianfunian/yilan",
   "type": "library",
   "description": "易联支付",
   "keywords": ["pay", "yilian"],
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-0": {
-      "Pay\\Yilian\\": "src/"
+      "Yilian\\": "src/"
     }
   },
   "minimum-stability": "stable"
